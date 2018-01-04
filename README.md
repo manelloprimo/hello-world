@@ -1,2 +1,4 @@
 # hello-world
-my first repo
+Hi humans,
+Manello here, i'm experimentign GItHub today!
+
